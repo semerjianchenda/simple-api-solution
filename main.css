@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+.catBreed{
+    margin-left: 620px;
+}
+button{
+    margin-left: 10px;
+    font-weight: bold;
+}
+img{
+    margin-top: 20px;
+}
